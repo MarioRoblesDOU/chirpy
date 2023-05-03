@@ -42,7 +42,7 @@ You will find some categories in this website:
 ## Overview 👀
 Here you can find the essential documentation in order to work properly during your intership, like information about the project, and the installation guides of all the tools that you will use.
 
-[click here to see the overview of all the content 👀 ](/chirpy/posts/overview)
+[click here to see the overview of all the content 👀 ](/sitetest/posts/overview)
 
 ## Labs 🧪
 The main purpose of the Labs is to get you familiar with the tools you will use in the program, they will help you to get a better understanding of the tools used in the program.
